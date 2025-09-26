@@ -8,3 +8,17 @@
 *This text is italic*
 _This text also_
 
+<<<<<<< Updated upstream
+=======
+This is regular text.
+
+**This is bolded text.**
+
+***this is both italic and bolded***
+
+Unordered List:
+- Item 1
+- Item 2
+    - Item 2a
+    - Item 2b
+>>>>>>> Stashed changes
