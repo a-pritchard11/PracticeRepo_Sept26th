@@ -9,3 +9,7 @@
 _This text also_
 
 This is regular text.
+
+**This is bolded text.**
+
+***this is both italic and bolded***
