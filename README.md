@@ -8,3 +8,4 @@
 *This text is italic*
 _This text also_
 
+This is regular text.
